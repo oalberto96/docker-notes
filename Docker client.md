@@ -40,6 +40,7 @@ docker ps
 #### Output
 CONTAINER ID|IMAGE|COMMAND|CREATED|STATUS|PORTS|NAMES
 |--|--|--|--|--|--|--|
+
 To show all the containers add -a
 ```
 docker ps -a
